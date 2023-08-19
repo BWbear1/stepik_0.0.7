@@ -3,7 +3,6 @@ public class Main {
 
 
 
-       return year = year/4 - year/100 + year/400;
-
+       return year/4 - year/100 + year/400;
 
     }}
