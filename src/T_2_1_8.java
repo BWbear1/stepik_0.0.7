@@ -3,10 +3,7 @@ public class Main {
 
 
 
-        int B = year/4;
-        int C = year/100;
-        int D = year/400;
-        year = B - C + D;
+       return year = year/4 - year/100 + year/400;
 
 
     }}
